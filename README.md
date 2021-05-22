@@ -8,7 +8,11 @@ A vim wrapper around the [Qdocs](https://github.com/johansenja/qdocs) gem, provi
 
 ## Installation
 
-Use your favourite plugin manager, eg.
+First install the qdocs gem
+
+`$ gem install qdocs`
+
+Then use your favourite plugin manager, eg.
 
 ```vim
 Plug 'johansenja/qdocs-vim'
