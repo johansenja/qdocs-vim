@@ -18,6 +18,9 @@ Then use your favourite plugin manager, eg.
 Plug 'johansenja/qdocs-vim'
 ```
 
+Then when you open a buffer that is recognised as Ruby, it will automatically start a qdocs server, ready for use (see below) 
+
+
 ## Usage
 
 When you open up a recognised ruby file type, the qdocs server will start and you can query it like this:
